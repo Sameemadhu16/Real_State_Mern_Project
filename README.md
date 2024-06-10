@@ -14,3 +14,6 @@ npm init -y ( initialize package.json file in the root directory),
 create index.js file in the api folder,
 install express and import it in the index.js,create app,
 install nodemon for restart the server -> update json fie script
+
+install mongoose to connect the database and import it index.js,
+install dotenv package for woking env files and import in index.js
