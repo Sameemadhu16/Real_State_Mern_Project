@@ -17,3 +17,5 @@ install nodemon for restart the server -> update json fie script
 
 install mongoose to connect the database and import it index.js,
 install dotenv package for woking env files and import in index.js
+
+create model folder and create user.model.js,
