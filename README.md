@@ -20,4 +20,6 @@ install dotenv package for woking env files and import in index.js
 
 create model folder and create user.model.js,
 create in api routes folder and create user.route.js in here.
-crreate controllers folder and create user.controller.js file
+create controllers folder and create user.controller.js file
+create sign up api route use insomnia
+install bcryptjs for encrypt the password
