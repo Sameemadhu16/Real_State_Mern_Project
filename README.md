@@ -19,3 +19,5 @@ install mongoose to connect the database and import it index.js,
 install dotenv package for woking env files and import in index.js
 
 create model folder and create user.model.js,
+create in api routes folder and create user.route.js in here.
+crreate controllers folder and create user.controller.js file
