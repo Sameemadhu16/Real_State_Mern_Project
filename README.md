@@ -23,5 +23,6 @@ create in api routes folder and create user.route.js in here.
 create controllers folder and create user.controller.js file
 create sign up api route use insomnia
 install bcryptjs for encrypt the password
-create a midleware to error handler
+create a middleware and function to handle the error
 
+complete sign up page UI
