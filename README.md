@@ -26,3 +26,6 @@ install bcryptjs for encrypt the password
 create a middleware and function to handle the error
 
 complete sign up page UI
+use handleChanger and handleSubmit functions and prevent default for 
+preventing the refresh after the submit button
+set server proxy in the vite.config file
