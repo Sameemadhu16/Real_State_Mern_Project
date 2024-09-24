@@ -39,3 +39,6 @@ add configureStore in the store folder and import it in the index.js
 import Provider in the main.jsx and wrap the app component
 create userSlice in the user folder and import it in the configureStore
 include in sign in page
+
+install redux-persist (for store the data in the local storage)
+add persistStore in the store.js file
