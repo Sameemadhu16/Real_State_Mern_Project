@@ -29,3 +29,13 @@ complete sign up page UI
 use handleChanger and handleSubmit functions and prevent default for 
 preventing the refresh after the submit button
 set server proxy in the vite.config file
+
+create sign in api route and use it in the sign in page
+install jsonwebtoken for token and import it in the user.controller.js
+create a middleware for the token and use it in the user.route.js
+
+install redux and react-redux and import it in the index.js
+add configureStore in the store folder and import it in the index.js
+import Provider in the main.jsx and wrap the app component
+create userSlice in the user folder and import it in the configureStore
+include in sign in page
