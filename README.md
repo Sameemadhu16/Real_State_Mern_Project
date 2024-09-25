@@ -42,3 +42,8 @@ include in sign in page
 
 install redux-persist (for store the data in the local storage)
 add persistStore in the store.js file
+
+create firebase project and add the firebase config in the firebase.js file
+export firebase.js
+cut apikey and paste it in the .env file
+enable google authentication in firebase project
