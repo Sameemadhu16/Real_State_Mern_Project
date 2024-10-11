@@ -47,3 +47,5 @@ create firebase project and add the firebase config in the firebase.js file
 export firebase.js
 cut apikey and paste it in the .env file
 enable google authentication in firebase project
+
+update header and profile page private route (use outlet)
